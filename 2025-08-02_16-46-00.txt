@@ -1,5 +1,0 @@
-{Book: Genesis
-Chapter: 3
-Verse: 5
-Verse Text: testing
-Status: false }
